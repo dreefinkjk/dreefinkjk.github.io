@@ -79,7 +79,7 @@ ga_domain: dreefin.com
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Dreefin will make all service for human."
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/avatar-dreefin.png # https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
